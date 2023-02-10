@@ -22,6 +22,14 @@ public class Bicycle implements Serializable {
 		this.speed = speed;
 	}
 
+	public int getCadence() {
+		return this.cadence;
+	}
+
+	public void setCadence(int cadence) {
+		this.cadence = cadence;
+	}
+
 	public void speedUp(int increment) {
 		speed += increment;
 	}
