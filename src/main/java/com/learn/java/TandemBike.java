@@ -1,5 +1,5 @@
 package com.learn.java;
 
-public class TandemBike {
+public class TandemBike extends Bicycle {
 
 }

@@ -1,5 +1,5 @@
 package com.learn.java;
 
-public class RoadBike {
+public class RoadBike extends Bicycle {
 
 }
