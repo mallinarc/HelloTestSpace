@@ -17,6 +17,7 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
@@ -31,4 +32,9 @@
 			</matcher>
 		</filter>
 	</filteredResources>
+=======
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+>>>>>>> aacc4fab38fc5b9d3d3ffa1d0e2736e77ebdee4d
 </projectDescription>
