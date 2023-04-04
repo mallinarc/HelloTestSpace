@@ -11,4 +11,8 @@ public abstract class Animal {
 		this.name = name;
 	}
 
+	public void makeNoise() {
+		System.out.println("I am just an animal.");
+	}
+
 }
